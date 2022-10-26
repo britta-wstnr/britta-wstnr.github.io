@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Vision, Memory, and Language</title>
+    <link>https://britta-wstnr.github.io/posts/</link>
+    <description>Recent content in Posts on Vision, Memory, and Language</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 26 Oct 2022 15:20:10 +0200</lastBuildDate><atom:link href="https://britta-wstnr.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I have seen this before. Pattern completion in the human visual system and its role for memory</title>
+      <link>https://britta-wstnr.github.io/posts/mariecurie/</link>
+      <pubDate>Wed, 26 Oct 2022 15:20:10 +0200</pubDate>
+      
+      <guid>https://britta-wstnr.github.io/posts/mariecurie/</guid>
+      <description>From 2020 to 2022, I was funded by a Marie Curie Individual Fellowship of the EU Horizon 2020 scheme. This allowed me to join the lab of Prof. Floris de Lange at the Donders Institute at the Radboud University in Nijmegen to research visual anticipation and its relation to memory. Unfortunately, this fellowship was overshadowed by the COVID-19 pandemic, so progress on the project was a little slower than anticipated.</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://britta-wstnr.github.io/posts/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://britta-wstnr.github.io/posts/about/</guid>
+      <description>Hi!
+I am Britta Westner, a postdoctoral fellow at the Donders Institute, more precisely, at the Donders Centre for Cognition. Here, I am working in the lab of Assoc.-Prof. Vitória Piai.
+My current research focuses mainly on the intersection of language and memory. Since my background is in visual neuroscience, I am naturally also interested in the intersection of language and vision. I work with electrophysiological data and have a focus on data analysis methods such as source reconstruction and MEG decoding.</description>
+    </item>
+    
+  </channel>
+</rss>
