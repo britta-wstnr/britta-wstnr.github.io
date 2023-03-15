@@ -5,7 +5,17 @@
     <link>https://britta-wstnr.github.io/</link>
     <description>Recent content on Vision, Memory, and Language</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 26 Oct 2022 15:20:10 +0200</lastBuildDate><atom:link href="https://britta-wstnr.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Mar 2023 16:56:03 +0100</lastBuildDate><atom:link href="https://britta-wstnr.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New: Resources page</title>
+      <link>https://britta-wstnr.github.io/posts/newresources/</link>
+      <pubDate>Wed, 15 Mar 2023 16:56:03 +0100</pubDate>
+      
+      <guid>https://britta-wstnr.github.io/posts/newresources/</guid>
+      <description>There is a new content page on my website that links resources which I have created. At this point, it contains lectures and teaching material for MEG and EEG data analysis - but I will keep updating it whenever I create any new teaching material or tutorials.
+If M/EEG data analysis is something you want to learn more about: go check it out here!</description>
+    </item>
+    
     <item>
       <title>I have seen this before. Pattern completion in the human visual system and its role for memory</title>
       <link>https://britta-wstnr.github.io/posts/mariecurie/</link>
@@ -40,6 +50,16 @@ If you want to write me an email, you can do so via:
 britta.westner [at] donders.ru.nl
 My homepage entry at Radboud University is here:
 https://www.ru.nl/personen/westner-b</description>
+    </item>
+    
+    <item>
+      <title>Resources</title>
+      <link>https://britta-wstnr.github.io/resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://britta-wstnr.github.io/resources/</guid>
+      <description>On this page, I am collecting some resources that I created, mostly for data analysis of MEG and EEG data.
+Source reconstruction of M/EEG data For the lab of Vitória Piai, I am creating a source reconstruction pipeline in FieldTrip. Not quite a tutorial, but with many explanatory comments in the text. Geared towards the data we handle in the lab, but I tried to make it clear if something is Donders-specific, so it might still be a good place to get started.</description>
     </item>
     
     <item>

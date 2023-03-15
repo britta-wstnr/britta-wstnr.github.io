@@ -5,7 +5,17 @@
     <link>https://britta-wstnr.github.io/posts/</link>
     <description>Recent content in Posts on Vision, Memory, and Language</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 26 Oct 2022 15:20:10 +0200</lastBuildDate><atom:link href="https://britta-wstnr.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Mar 2023 16:56:03 +0100</lastBuildDate><atom:link href="https://britta-wstnr.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New: Resources page</title>
+      <link>https://britta-wstnr.github.io/posts/newresources/</link>
+      <pubDate>Wed, 15 Mar 2023 16:56:03 +0100</pubDate>
+      
+      <guid>https://britta-wstnr.github.io/posts/newresources/</guid>
+      <description>There is a new content page on my website that links resources which I have created. At this point, it contains lectures and teaching material for MEG and EEG data analysis - but I will keep updating it whenever I create any new teaching material or tutorials.
+If M/EEG data analysis is something you want to learn more about: go check it out here!</description>
+    </item>
+    
     <item>
       <title>I have seen this before. Pattern completion in the human visual system and its role for memory</title>
       <link>https://britta-wstnr.github.io/posts/mariecurie/</link>
