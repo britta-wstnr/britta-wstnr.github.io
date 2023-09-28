@@ -5,7 +5,17 @@
     <link>https://britta-wstnr.github.io/</link>
     <description>Recent content on Vision, Memory, and Language</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 15 Mar 2023 16:56:03 +0100</lastBuildDate><atom:link href="https://britta-wstnr.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://britta-wstnr.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tips for teaching data analysis tutorials and workshops</title>
+      <link>https://britta-wstnr.github.io/posts/tutorialworkshop/</link>
+      <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://britta-wstnr.github.io/posts/tutorialworkshop/</guid>
+      <description>Yesterday, I gave a workshop for Cutting Gardens tutors on how to teach MNE-Python. It was my first time teaching such a &amp;ldquo;meta workshop&amp;rdquo; - and below I am sharing some of the tips and thoughts I came up with during preparation. Part of it will be MNE-Python-specific, some of it should apply to any software workshop.
+What should happen before the tutorial takes place? There is a few key points that should happen before the tutorial takes place:</description>
+    </item>
+    
     <item>
       <title>New: Resources page</title>
       <link>https://britta-wstnr.github.io/posts/newresources/</link>
