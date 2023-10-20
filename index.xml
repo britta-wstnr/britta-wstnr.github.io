@@ -63,6 +63,19 @@ https://www.ru.nl/personen/westner-b</description>
     </item>
     
     <item>
+      <title>News</title>
+      <link>https://britta-wstnr.github.io/news/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://britta-wstnr.github.io/news/</guid>
+      <description>Here, I report things like published papers, conferences I will or just have attended, workshops etc. as short news items.
+2023 📗 Taught at Berlin Brainwaves at the MPI for Human Development in Berlin (October).
+🎉 Got selected to be a member of the Radboud Young Academy! Very honored!
+📗 Gave a workshop on how to teach MNE-Python in preparation for CuttingGardens (September).
+💬 Invited talk: Source space decoding and verbal fluency, at Institut NeuroMarseille, Aix-Marseille University, France (September).</description>
+    </item>
+    
+    <item>
       <title>Resources</title>
       <link>https://britta-wstnr.github.io/resources/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
