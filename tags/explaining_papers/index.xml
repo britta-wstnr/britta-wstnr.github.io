@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>explaining_papers on Vision, Memory, and Language</title>
+    <link>https://britta-wstnr.github.io/tags/explaining_papers/</link>
+    <description>Recent content in explaining_papers on Vision, Memory, and Language</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://britta-wstnr.github.io/tags/explaining_papers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Subsampling channels for robust connectivity estimation</title>
+      <link>https://britta-wstnr.github.io/posts/subsamplingbeamf/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://britta-wstnr.github.io/posts/subsamplingbeamf/</guid>
+      <description>New series: Explaining papers [#1]
+Lately, we published a new paper on estimating functional connectivity from electrophysiological data (Westner, Kujala, Gross, &amp;amp; Schoffelen, 2024). Let me give you a short description of what we did!
+Estimating functional connectivity from electrophysiological (i.e., EEG or MEG) data means that one wants to see if any brain areas show activity that is somehow synchronised (although this synchronisation can be shifted in time: think of two people clapping together or clapping alternatingly - both is considered a synchronisation in the neuroscience world).</description>
+    </item>
+    
+  </channel>
+</rss>

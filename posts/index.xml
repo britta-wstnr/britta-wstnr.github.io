@@ -5,7 +5,18 @@
     <link>https://britta-wstnr.github.io/posts/</link>
     <description>Recent content in Posts on Vision, Memory, and Language</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 28 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://britta-wstnr.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://britta-wstnr.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Subsampling channels for robust connectivity estimation</title>
+      <link>https://britta-wstnr.github.io/posts/subsamplingbeamf/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://britta-wstnr.github.io/posts/subsamplingbeamf/</guid>
+      <description>New series: Explaining papers [#1]
+Lately, we published a new paper on estimating functional connectivity from electrophysiological data (Westner, Kujala, Gross, &amp;amp; Schoffelen, 2024). Let me give you a short description of what we did!
+Estimating functional connectivity from electrophysiological (i.e., EEG or MEG) data means that one wants to see if any brain areas show activity that is somehow synchronised (although this synchronisation can be shifted in time: think of two people clapping together or clapping alternatingly - both is considered a synchronisation in the neuroscience world).</description>
+    </item>
+    
     <item>
       <title>Tips for teaching data analysis tutorials and workshops</title>
       <link>https://britta-wstnr.github.io/posts/tutorialworkshop/</link>
