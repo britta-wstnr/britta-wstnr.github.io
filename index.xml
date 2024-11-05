@@ -54,7 +54,7 @@ If M/EEG data analysis is something you want to learn more about: go check it ou
       <guid>https://britta-wstnr.github.io/posts/about/</guid>
       <description>Picture credit: Marlene Meyer
 Hi!
-I am Britta Westner, a teaching fellow (Tenure Track) at the Donders Institute and Radboudumc in The Netherlands. Here, I am working in the department of Cognitive Neuroscience.
+I am Britta Westner, a teaching fellow (Tenure Track) and researcher at the Donders Institute and Radboudumc in The Netherlands. Here, I am working in the department of Cognitive Neuroscience.
 My current research focuses mainly on the intersection of language and memory and I am closely working together with the lab of Assoc.-Prof. Vitória Piai. Since my background is in visual neuroscience, I am naturally also interested in the intersection of language and vision.</description>
     </item>
     
@@ -79,9 +79,10 @@ firstname.lastname [at] donders.ru.nl</description>
       
       <guid>https://britta-wstnr.github.io/news/</guid>
       <description>Here, I report things like published papers, conferences I will or just have attended, workshops etc. as short news items.
-2024 📄 Our work on source space connectivity estimation is now published in Imaging Neuroscience (April).
-🎉 I started a new job! I am now a teaching fellow (Tenure Track) at the Donders Institute and RadboudUMC.
-2023 📗 Taught at Berlin Brainwaves at the MPI for Human Development in Berlin (October).</description>
+2024 💬 Gave a talk on the state of open source in Neuroscience at CuttingEEGX in Nijmegen. (October)
+📗 Taught a workshop on source reconstruction at at CuttingEEGX in Nijmegen. (October)
+📊 Presented a poster at the Highlights in the Language Sciences (HILS) conference in Nijmegen. (July)
+📗 Taught at the Donders MEG/EEG Toolkit (May).</description>
     </item>
     
     <item>
@@ -91,7 +92,9 @@ firstname.lastname [at] donders.ru.nl</description>
       
       <guid>https://britta-wstnr.github.io/resources/</guid>
       <description>On this page, I am collecting some resources that I created, mostly for data analysis of MEG and EEG data.
-Source reconstruction of M/EEG data For the lab of Vitória Piai, I am creating a source reconstruction pipeline in FieldTrip. Not quite a tutorial, but with many explanatory comments in the text. Geared towards the data we handle in the lab, but I tried to make it clear if something is Donders-specific, so it might still be a good place to get started.</description>
+Source reconstruction of M/EEG data If you would like to gain some experience with hands-on source reconstruction and best practices using MNE-Python, check out this material from the source reconstruction best practices workshop at CuttingEEGX in Nijmegen:
+https://github.com/britta-wstnr/CuttingEEGX_Workshop
+For the lab of Vitória Piai, I am creating a source reconstruction pipeline in FieldTrip.</description>
     </item>
     
     <item>
