@@ -54,7 +54,7 @@ If M/EEG data analysis is something you want to learn more about: go check it ou
       <guid>https://britta-wstnr.github.io/posts/about/</guid>
       <description>Picture credit: Marlene Meyer
 Hi!
-I am Britta Westner, a teaching fellow (Tenure Track) and researcher at the Donders Institute and Radboudumc in The Netherlands. Here, I am working in the department of Cognitive Neuroscience.
+I am Britta Westner, a teaching fellow (Tenure Track) and researcher at the Donders Institute and Radboudumc in The Netherlands. Here, I am working in the department of Medical Neuroscience.
 My current research focuses mainly on the intersection of language and memory and I am closely working together with the lab of Assoc.-Prof. Vitória Piai. Since my background is in visual neuroscience, I am naturally also interested in the intersection of language and vision.</description>
     </item>
     
@@ -79,10 +79,9 @@ firstname.lastname [at] donders.ru.nl</description>
       
       <guid>https://britta-wstnr.github.io/news/</guid>
       <description>Here, I report things like published papers, conferences I will or just have attended, workshops etc. as short news items.
+2025 📄 Our work on neural adaptation to familiar images and autism is now published in Imaging Neuroscience (April).
 2024 💬 Gave a talk on the state of open source in Neuroscience at CuttingEEGX in Nijmegen. (October)
-📗 Taught a workshop on source reconstruction at at CuttingEEGX in Nijmegen. (October)
-📊 Presented a poster at the Highlights in the Language Sciences (HILS) conference in Nijmegen. (July)
-📗 Taught at the Donders MEG/EEG Toolkit (May).</description>
+📗 Taught a workshop on source reconstruction at at CuttingEEGX in Nijmegen. (October)</description>
     </item>
     
     <item>
@@ -107,8 +106,9 @@ For the lab of Vitória Piai, I am creating a source reconstruction pipeline in 
 Recent preprints Westner, BU, DR McCloy, E Larson, A Gramfort, DS Katz, AM Smith, and invited co-signees. 2024.
 Cycling on the Freeway: The Perilous State of Open Source Neuroscience Software.
 arXiv preprint. https://doi.org/10.48550/arXiv.2403.19394.
-Westner, BU*, E Bosch*, C Utzerath, J Buitelaar, and FP de Lange. 2023.
-Typical neural adaptation for familiar images in autistic adolescents.</description>
+Westner, BU and JR King. 2023.
+The best of two worlds: Decoding and source-reconstructing M/EEG oscillatory activity with a unique model.
+bioRxiv preprint.</description>
     </item>
     
   </channel>
