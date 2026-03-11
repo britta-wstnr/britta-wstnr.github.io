@@ -5,7 +5,18 @@
     <link>https://britta-wstnr.github.io/</link>
     <description>Recent content on Vision, Memory, and Language</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://britta-wstnr.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://britta-wstnr.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cycling on the freeway - open source in neuroscience</title>
+      <link>https://britta-wstnr.github.io/posts/opensource/</link>
+      <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://britta-wstnr.github.io/posts/opensource/</guid>
+      <description>Explaining papers [#2]
+It&amp;rsquo;s already been quite a while - but we published an opinion paper on the state of open-source software in neuroscience (Westner, McCloy, Larson, et al. 2025). Let me give you a short summary of our stance!
+Many researchers in human electrophysiology in neuroscience rely on open-source software to analyze their data. This software is mostly written and maintained by fellow researchers (as you can see on my about page, I am part of the team of one of these open-source software packages, MNE-Python).</description>
+    </item>
+    
     <item>
       <title>Subsampling channels for robust connectivity estimation</title>
       <link>https://britta-wstnr.github.io/posts/subsamplingbeamf/</link>
@@ -79,9 +90,9 @@ firstname.lastname [at] donders.ru.nl</description>
       
       <guid>https://britta-wstnr.github.io/news/</guid>
       <description>Here, I report things like published papers, conferences I will or just have attended, workshops etc. as short news items.
+2026 📗 Gave a workshop on workflow together with Frank van Caspel in the context of the Radboud Young Academy (February). Check out our blogpost about the workshop!
 2025 💬 Was part of a panel discussion on reproducibility, organized by DGPs&amp;rsquo; IGOR group (October).
-💬 Took part in a Generative Adversarial Collaboration debate on benchmarks at CCN 2025 in Amsterdam (August).
-💬 Had the honor to deliver a keynote lecture on open source at the 1st Oldenburg Open Science Conference (July).</description>
+💬 Took part in a Generative Adversarial Collaboration debate on benchmarks at CCN 2025 in Amsterdam (August).</description>
     </item>
     
     <item>
