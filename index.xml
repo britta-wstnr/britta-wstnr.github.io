@@ -90,9 +90,9 @@ firstname.lastname [at] donders.ru.nl</description>
       
       <guid>https://britta-wstnr.github.io/news/</guid>
       <description>Here, I report things like published papers, conferences I will or just have attended, workshops etc. as short news items.
-2026 📄 Irina has posted our latest preprint on word retrieval signatures on bioRxiv (May).
-📄 New preprint on similarities and dissimilarities in oscillatory activity between language and memory retrieval on bioRxiv (April).
-📗 Gave a workshop on workflow together with Frank van Caspel in the context of the Radboud Young Academy (February).</description>
+2026 💬 Honored to have been invited to MoBI 2026 in Berlin to give a keynote lecture on open source (August).
+📄 Irina has posted our latest preprint on word retrieval signatures on bioRxiv (May).
+📄 New preprint on similarities and dissimilarities in oscillatory activity between language and memory retrieval on bioRxiv (April).</description>
     </item>
     
     <item>
@@ -129,10 +129,11 @@ Welzel, J, GB Feld, M Klingelhöfer-Jens, M Bruntsch, DVM Bishop, A Hildebrandt,
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://britta-wstnr.github.io/teaching/</guid>
-      <description>I am teaching the recording and processing of electrophysiological signals across different programs at Radboud University. I am also the deputy specialization coordinator for the Medical Neuroscience specializations within the Master Biomedical Sciences. Below, you can see in which courses I am currently teaching!
+      <description>I am teaching the recording and processing of electrophysiological signals across different programs at Radboud University. Below, you can see in which courses I am currently teaching and what other teaching-related roles I have.
 Neuroimaging I
 Cognitive Neuroscience Research Master
-In this course, I am teaching several lectures as an introduction to EEG and MEG. We talk about acquisition, methods, and how this is used in neuroscience research.</description>
+In this course, I am teaching several lectures as an introduction to EEG and MEG. We talk about acquisition, methods, and how this is used in neuroscience research.
+Neuroimaging II</description>
     </item>
     
   </channel>
